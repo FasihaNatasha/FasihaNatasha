@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FasihaNatasha&label=Profile%20views&color=0e75b6&style=flat" alt="FasihaNatasha" /> </p>
 
-I am a 22 years-old girl trying to learn and explore the world of journalism. I love giving my best whenever I can. Do check out my portfolio here: https://fasihanatasha.github.io/
+I am a 22 years-old girl trying to learn and explore the world of journalism. I love giving my best whenever I can. Do check out my portfolio here: https://FasihaNatasha.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
